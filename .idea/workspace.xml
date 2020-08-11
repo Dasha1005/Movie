@@ -19,11 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8679e885-9736-48ac-ade3-785d80530fc2" name="Default Changelist" comment="add arrows to slick-slider">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/slider-next-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slick.css" afterDir="false" />
+    <list default="true" id="8679e885-9736-48ac-ade3-785d80530fc2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/next-arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/previous-arrow.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider-prev-arrow.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
@@ -82,8 +82,16 @@
       <option name="presentableId" value="Default" />
       <updated>1597140645912</updated>
       <workItem from="1597140647136" duration="15138000" />
-      <workItem from="1597162141428" duration="2186000" />
+      <workItem from="1597162141428" duration="6202000" />
     </task>
+    <task id="LOCAL-00001" summary="add arrows to slick-slider">
+      <created>1597164340510</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597164340510</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,10 +118,10 @@
       <screen x="0" y="0" width="1218" height="720" />
     </state>
     <state x="65" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1218.720@0.0.1218.720" timestamp="1597158241360" />
-    <state x="198" y="0" key="CommitChangelistDialog2" timestamp="1597164322812">
+    <state x="198" y="0" key="CommitChangelistDialog2" timestamp="1597164338713">
       <screen x="0" y="0" width="1218" height="720" />
     </state>
-    <state x="198" y="0" key="CommitChangelistDialog2/0.0.1218.720@0.0.1218.720" timestamp="1597164322812" />
+    <state x="198" y="0" key="CommitChangelistDialog2/0.0.1218.720@0.0.1218.720" timestamp="1597164338713" />
     <state x="279" y="139" key="EditFileWatcherDialog" timestamp="1597140687023">
       <screen x="0" y="0" width="1218" height="720" />
     </state>

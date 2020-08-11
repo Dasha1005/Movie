@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 38" width="15" height="38">
+	<defs>
+		<image width="15" height="38" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAmCAMAAAAsqzGGAAAAAXNSR0IB2cksfwAAARFQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////jDOxHwAAAFt0Uk5TAEa1lhIb5/+nKfpNA9UPHeWBYPY0tsMCLml8GgrUnUT9TKLTCx/phWP3Mb8s+VSAyAcZbW6KtEH49QnGdCLwslvmFeBojcT8NZjXO04OzaV98XCZxwaaNyC32RbsV7kAAADtSURBVHicXdHXWsJQEATgQ10VNBFUEESMBSsGVIoVIwo2EERUeP8HYbjJLOTun53kO2djTCAYChs+kajIgvLikojE6HgIXl5hYNkIVtUbCTi5poJ1BBspOp1EsKkKGTiapbdyCLZVIb+DwFHBLry3Tx8UEByqwhF8fDJ3iNM4fVZEcK4KLlwq0xdYhFyqwhWcU67AVbJWF7nmtW9uMXY5vpuemJ+/f5hda0Nm1v4IetzIUxN+5vgFbPFjThsbf/WZ9TCusP0GvvOPfUxv/umz0wW/2O6BtuUz3Ye/OR6AP0P6V6T9R5r/0Vgd1EwAzFgV6aXhOQ4AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Slider">
+		<use id="bannerarrow copy" href="#img1" x="0" y="0" />
+	</g>
+</svg>
