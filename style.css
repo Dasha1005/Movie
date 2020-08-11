@@ -98,7 +98,7 @@ body {
   height: 155px;
   opacity: 0.8;
   background-color: #1b7f9b;
-  z-index: 100;
+  z-index: 1000;
   position: absolute;
   bottom: 40px;
 }
@@ -114,6 +114,25 @@ body {
 
 .slider__title span {
   font-weight: 400;
+}
+
+.slick-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 5;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+.slick-prev {
+  left: 0;
+}
+
+.slick-next {
+  right: 0;
 }
 
 /*# sourceMappingURL=style.css.map */
