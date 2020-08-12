@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<defs>
+		<image width="32" height="32" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IB2cksfwAAADZQTFRF8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFeVVEB1QAAABJ0Uk5TADCAwP9g0CBQ8EBw4KCQsBCIwpCtSQAAAQRJREFUeJyNk9m2gyAMRUMmIKK2//+zjUVxwF7veXHIXuEkJABNAYm/IgzQS5QPUrmEI/FFFI/xlK9x5pwO6fvwonZMuo8zrzniTf71lOqj+rOBFcrV6cHAGHmyWxtr/RmKjaw4O1sKroB6/5qjAXJ+zWFkI4Ltb4CN5dmr8QDaCUDYW+hsD+xvPwA+A+qA/AVwsBdxitIDiGiLHWXHcqYekIjlmvP0Sd5GzUUZsoOljU8rcwGMvAZ4R51Nhq1M7AB/JKS4NSrcARZtvbjQLusMHC5ru+4vMEsFEKmOmewDo+5qlGlgmyQXSVQt/mvkHof2eeyfF+d59frlTdCrrr8Sndb/A1qzD1V14SV5AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Footer">
+		<use id="youtube" href="#img1" x="0" y="0" />
+	</g>
+</svg>

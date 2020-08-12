@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<defs>
+		<image width="32" height="32" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAAXNSR0IB2cksfwAAADBQTFRF8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFeUFawpQAAABB0Uk5TADCAwP9g0CBQ8JBwsBBA4HP8UOcAAADgSURBVHicY2AAASETFxdnRQY4CHMBg1QYv9gFCswhfI4pMAHPBrBAiAscuIIVuCABkJJKZIHpQAETZAFnBgZWFxcHmHUsLi4BDGyoAgkMIi4uXjCBJS4ujgwqQJ2JEL4YkOkENtNzA4jPPQVsKpBwc/G5wMDAe8QlBcgBCfgucZnHwPDSxesKVMAB6JsFXECfsMAEGO67uKW4/GVACKh8cXHxd0IIlPlc/OIveyQdLAC01nVmAMOttQysM0NA1mI4DMPpGJ7D8D5GAGEGIUYgY0QDZkRhRCU8sjMQ0Y+UHAB3cWhoqv2hbAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Footer">
+		<use id="email" href="#img1" x="0" y="0" />
+	</g>
+</svg>

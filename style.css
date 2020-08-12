@@ -4,6 +4,20 @@
   box-sizing: border-box;
 }
 
+@font-face {
+  font-family: "MyriadProRegular";
+  src: url("fonts/MyriadProRegular.woff2") format("woff2"), url("fonts/MyriadProRegular.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Proxima Nova";
+  src: url("fonts/Proxima Nova.woff2") format("woff2"), url("fonts/ProximaNova-Regular.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
 ul {
   list-style: none;
 }
@@ -110,6 +124,7 @@ body {
   opacity: 0.7;
   width: 50px;
   height: 90px;
+  padding-right: 12px;
 }
 
 .slick-next {
@@ -118,7 +133,7 @@ body {
   opacity: 0.7;
   width: 50px;
   height: 90px;
-  padding-right: 15px;
+  padding-right: 10px;
 }
 
 .slider__bg {
@@ -143,6 +158,219 @@ body {
 
 .slider__title span {
   font-weight: 400;
+}
+
+.content__inner {
+  padding-top: 45px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.content__title {
+  font-size: 28px;
+  color: #4999af;
+  font-family: "Oswald", sans-serif;
+  width: 19%;
+  line-height: 32px;
+}
+
+.content__form {
+  margin-top: 15px;
+  position: relative;
+  width: 785px;
+}
+
+.content__name {
+  width: 100%;
+  height: 44px;
+  border: 1px solid #4999af;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  padding-left: 15px;
+  padding-right: 50px;
+}
+
+.content__name::placeholder {
+  color: #333333;
+}
+
+.content__btn {
+  width: 40px;
+  height: 40px;
+  background-color: #4999af;
+  border: 1px solid #4999af;
+  position: absolute;
+  right: 2px;
+  top: 2px;
+}
+
+.content__boxes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding-top: 45px;
+}
+
+.content__box-1,
+.content__box-2,
+.content__box-3 {
+  position: relative;
+  padding-bottom: 20px;
+}
+
+.content__boxes-title {
+  position: absolute;
+  bottom: 83px;
+  right: 20px;
+  font-size: 30px;
+  color: #ffffff;
+  font-weight: 700;
+  font-family: "Oswald", sans-serif;
+  filter: drop-shadow(0.5px 0.866px 2.5px rgba(0, 0, 0, 0.6));
+}
+
+.content__bg {
+  background-color: #1b7f9b;
+  opacity: 0.8;
+  width: 265px;
+  height: 46px;
+  z-index: 12;
+  position: absolute;
+  bottom: 23px;
+  right: 0;
+}
+
+.content__subtitle {
+  font-size: 16px;
+  color: #ffffff;
+  font-family: "MyriadProRegular", sans-serif;
+  line-height: 20px;
+}
+
+.subtitle {
+  position: absolute;
+  left: 20px;
+  top: 11px;
+}
+
+.span {
+  position: absolute;
+  right: 10px;
+  top: 11px;
+}
+
+.content__list {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 10px;
+  padding-bottom: 35px;
+  font-size: 16px;
+  color: #000000;
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+}
+
+.content__list-item-1 {
+  padding-right: 40px;
+}
+
+.content__list-item-2 {
+  padding-right: 35px;
+}
+
+.content__list-item-3 {
+  padding-right: 10px;
+}
+
+.link-prev:before {
+  content: "<";
+}
+
+.link-next:after {
+  content: ">";
+}
+
+.footer {
+  background-color: #525252;
+}
+
+.footer__list {
+  display: flex;
+  padding-top: 30px;
+  font-size: 20px;
+  color: #f3eeea;
+  font-family: "Proxima Nova", sans-serif;
+}
+
+.footer__list-item-1 {
+  padding-bottom: 25px;
+}
+
+.footer__list-item-2 {
+  padding-left: 45px;
+  padding-bottom: 30px;
+}
+
+.footer__list-item-3 {
+  padding-left: 290px;
+  padding-bottom: 30px;
+}
+
+.footer__btn {
+  background-color: #4999af;
+  width: 275px;
+  height: 38px;
+  border: none;
+  border-radius: 7px;
+  margin-bottom: 47px;
+}
+
+.footer__btn span {
+  font-size: 18px;
+  color: #f3eeea;
+  font-family: "MyriadProRegular", sans-serif;
+  display: flex;
+  align-self: center;
+  justify-content: center;
+}
+
+.footer__subtitle-2 {
+  font-size: 12px;
+  color: #b3b3b3;
+  font-family: "MyriadProRegular", sans-serif;
+  display: block;
+  border-top: 1px solid #6b6b6a;
+  padding-top: 20px;
+  padding-bottom: 27px;
+}
+
+.footer__inner {
+  display: flex;
+}
+
+.footer__subtitle {
+  padding-left: 45px;
+  display: flex;
+  flex-direction: column;
+  font-size: 20px;
+  color: #f3eeea;
+  font-weight: bold;
+  font-family: "Proxima Nova", sans-serif;
+}
+
+.footer__subtitle span {
+  padding-top: 10px;
+  font-size: 12px;
+  color: #b3b3b3;
+}
+
+.footer__contacts {
+  padding-left: 185px;
+}
+
+.footer__contacts img {
+  padding-right: 5px;
 }
 
 /*# sourceMappingURL=style.css.map */

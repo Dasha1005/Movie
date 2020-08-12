@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 17" width="17" height="17">
+	<defs>
+		<image width="17" height="17" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAMAAAAMs7fIAAAAAXNSR0IB2cksfwAAAOdQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////2zCQUAAAAE10Uk5TAESg1uvZoUUBhf+YB4u+sj/eTAVHVKn7Tzzsxret5h+UhO814qLpIbTwI8RR3Dct1fajfeiDC6r8/pMDY8rl88FtnSg+LxC5pgmlBoJ6bZnUAAAAtklEQVR4nFWP5RLCMBCEj1KgLFpciluB4u7uvP/zkCZhBvZHdvPlbu5CRORQnKrL7aGvNC+EfH5JAuwSVELsdAsQBvRIlCimA3FOEkimeEhnkOVBhyHbc8gXbFdRlKSEcsX2KnKS1FBv2G6iyV+opaKt2cECOl3mvT4GllhQATLD0XAMJCeifTqby6WxWK5E1Xqz3dX3B4OxoybHnM4XouuNofv3c1wPk6HnL6HXk6E/QtFl8/0Bl6wP2toXSaAAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Content">
+		<g id="Text">
+			<use id="search icon" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

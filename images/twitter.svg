@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<defs>
+		<image width="32" height="32" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAAXNSR0IB2cksfwAAAC1QTFRF8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFeUajfSQAAAA90Uk5TADCAwP9g0CBQ8KDgEHBAj8h7pAAAAOZJREFUeJxjYAABIRMXF2dFBjgIcwGDVBi/2AUKzCF8jikwAc8GsECICxy4ghW4IAGQkkpkgelAARNkAWcGBlYXFBDAwAazQQ1MJTCIAEkvoMUeDG0gAUcGFSDpxLrFxYCBJwXEhJgZwDslgIGhBGwqiO/GwCANtI8ZxAYLuKwBO5m9DC6wFyJwDS4wDyzAuwUu4KIAEuBGmOGiDvc21CsTQUZMAVsLdJizsdEBoMAxF7DDQE6/ANLANwXidJDnnIHO5DCBeg7ifWPjKTDvYwQQZhBiBDJGNGBGFEZUwiM7AxH9SMkBAP+Qa+bqPCLbAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Footer">
+		<use id="twitter" href="#img1" x="0" y="0" />
+	</g>
+</svg>

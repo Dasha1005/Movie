@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<defs>
+		<image width="32" height="32" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IB2cksfwAAADZQTFRF8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFe8XFeVVEB1QAAABJ0Uk5TADCAwP9g0CBQ8ECQEGSw4HCgVPEejwAAAPtJREFUeJyFU9sWhCAIVEC8te32/z+7Yd7Czmle6jgIzIDGdFhAKkCwZoVjmsBO0R5JAf3Mh6h5ohim9Cst6GXCM09Uc/iaH1NDrifx6qP1B6PmViXhrYEk2VIqHqSpja5fCDi/2YxTPv3r3vRyc11b7hSUi4QOijrm1li3UDRZgutnozYX00WLpICfPVy95NZZ47+30cQIOmCfeSZgHfAbLkE8x006QPyxKBDJKS4BcvdXHXGDJ9PlnDjIy6zctD3YjCqT+vJOCtCsFvWe8rJZdhqWxGue1b5lHeDG4FjaOxSPt5VbUVfudWnf1/794bw/PbM83mBWPD//P24jDXx59tquAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Footer">
+		<use id="paypal" href="#img1" x="0" y="0" />
+	</g>
+</svg>
