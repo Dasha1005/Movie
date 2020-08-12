@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8679e885-9736-48ac-ade3-785d80530fc2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mockup.psd" beforeDir="false" afterPath="$PROJECT_DIR$/mockup.psd" afterDir="false" />
-    </list>
+    <list default="true" id="8679e885-9736-48ac-ade3-785d80530fc2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +75,7 @@
       <updated>1597140645912</updated>
       <workItem from="1597140647136" duration="15138000" />
       <workItem from="1597162141428" duration="44495000" />
+      <workItem from="1597263673973" duration="313000" />
     </task>
     <task id="LOCAL-00001" summary="add arrows to slick-slider">
       <created>1597164340510</created>
@@ -107,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597263141765</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added media">
+      <created>1597263830234</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597263830234</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +128,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -138,14 +144,14 @@
       <screen x="0" y="0" width="1218" height="720" />
     </state>
     <state x="65" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1218.720@0.0.1218.720" timestamp="1597158241360" />
-    <state x="340" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597245040684">
+    <state x="340" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597263707025">
       <screen x="0" y="0" width="1218" height="720" />
     </state>
-    <state x="340" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1218.720@0.0.1218.720" timestamp="1597245040684" />
-    <state x="198" y="0" key="CommitChangelistDialog2" timestamp="1597263139432">
+    <state x="340" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1218.720@0.0.1218.720" timestamp="1597263707025" />
+    <state x="198" y="0" key="CommitChangelistDialog2" timestamp="1597263828209">
       <screen x="0" y="0" width="1218" height="720" />
     </state>
-    <state x="198" y="0" key="CommitChangelistDialog2/0.0.1218.720@0.0.1218.720" timestamp="1597263139432" />
+    <state x="198" y="0" key="CommitChangelistDialog2/0.0.1218.720@0.0.1218.720" timestamp="1597263828209" />
     <state x="279" y="139" key="EditFileWatcherDialog" timestamp="1597140687023">
       <screen x="0" y="0" width="1218" height="720" />
     </state>
