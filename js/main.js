@@ -4,6 +4,14 @@ $(function(){
             '<img src="images/previous-arrow.svg" alt=""></button>',
         nextArrow: '<button type="button" class="slick-btn slick-next">' +
             '<img src="images/next-arrow.svg" alt=""></button>',
-        infinite: true
+        infinite: true,
+        responsive:[
+            {
+                breakpoint:631,
+                settings:{
+                    arrows:false
+                }
+            },
+        ]
     });
 });
