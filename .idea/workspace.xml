@@ -20,12 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8679e885-9736-48ac-ade3-785d80530fc2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +80,7 @@
       <workItem from="1597263673973" duration="6588000" />
       <workItem from="1597308392814" duration="14046000" />
       <workItem from="1597351646143" duration="1196000" />
-      <workItem from="1597395873535" duration="15603000" />
+      <workItem from="1597395873535" duration="16014000" />
     </task>
     <task id="LOCAL-00001" summary="add arrows to slick-slider">
       <created>1597164340510</created>
@@ -136,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597264553138</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added search movies for content__form">
+      <created>1597412881122</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1597412881122</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,7 +163,8 @@
     <MESSAGE value="add section and footer" />
     <MESSAGE value="added section and footer" />
     <MESSAGE value="added media" />
-    <option name="LAST_COMMIT_MESSAGE" value="added media" />
+    <MESSAGE value="added search movies for content__form" />
+    <option name="LAST_COMMIT_MESSAGE" value="added search movies for content__form" />
   </component>
   <component name="WindowStateProjectService">
     <state x="65" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597158241360">
@@ -172,10 +175,10 @@
       <screen x="0" y="0" width="1218" height="720" />
     </state>
     <state x="340" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1218.720@0.0.1218.720" timestamp="1597263707025" />
-    <state x="198" y="0" key="CommitChangelistDialog2" timestamp="1597264552165">
+    <state x="198" y="0" key="CommitChangelistDialog2" timestamp="1597412880459">
       <screen x="0" y="0" width="1218" height="720" />
     </state>
-    <state x="198" y="0" key="CommitChangelistDialog2/0.0.1218.720@0.0.1218.720" timestamp="1597264552165" />
+    <state x="198" y="0" key="CommitChangelistDialog2/0.0.1218.720@0.0.1218.720" timestamp="1597412880459" />
     <state x="279" y="139" key="EditFileWatcherDialog" timestamp="1597140687023">
       <screen x="0" y="0" width="1218" height="720" />
     </state>

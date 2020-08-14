@@ -20,7 +20,7 @@ const box     = document.querySelector('.content__info');
 
 const REQUEST_FORM = document.querySelector('.content__form');
 
-const layout       = (data) => {
+const addContent       = (data) => {
     return`
              <div class="container">
              <div class="content__info">
@@ -103,7 +103,7 @@ const request = async (search, box) => {
     })
         .then(response => response.json())
         .then(response=> {
-            box.innerHTML = layout(JSON.parse(JSON.stringify(response)));
+            box.innerHTML = addContent(JSON.parse(JSON.stringify(response)));
         })
         .catch(err => {
             box.innerHTML=`Your search did not match any results.`;
