@@ -257,6 +257,12 @@
                                             .link-next:after{
                                               content: '>';
                                             }
+                                            .content__info{
+                                              display: flex;
+                                              flex-wrap: wrap;
+                                              justify-content: space-between;
+                                              padding-top: 45px;
+                                            }
   .footer{
     background-color: #525252;
   }
@@ -368,7 +374,8 @@
     .content__title{
       width: auto;
     }
-    .content__boxes{
+    .content__boxes,
+    .content__info{
       justify-content: center;
     }
     .content__list{
