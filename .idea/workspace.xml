@@ -26,7 +26,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8679e885-9736-48ac-ade3-785d80530fc2" name="Default Changelist" comment="" />
+    <list default="true" id="8679e885-9736-48ac-ade3-785d80530fc2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +94,7 @@
       <workItem from="1597351646143" duration="1196000" />
       <workItem from="1597395873535" duration="18190000" />
       <workItem from="1597513613433" duration="93000" />
-      <workItem from="1597577760717" duration="2392000" />
+      <workItem from="1597577760717" duration="3064000" />
     </task>
     <task id="LOCAL-00001" summary="add arrows to slick-slider">
       <created>1597164340510</created>
@@ -178,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597579708328</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="fixed problem with mixed content">
+      <created>1597580308594</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1597580308594</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,7 +198,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -243,10 +264,10 @@
       <screen x="0" y="0" width="1218" height="720" />
     </state>
     <state x="340" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1218.720@0.0.1218.720" timestamp="1597263707025" />
-    <state x="198" y="0" key="CommitChangelistDialog2" timestamp="1597579707113">
+    <state x="198" y="0" key="CommitChangelistDialog2" timestamp="1597580307528">
       <screen x="0" y="0" width="1218" height="720" />
     </state>
-    <state x="198" y="0" key="CommitChangelistDialog2/0.0.1218.720@0.0.1218.720" timestamp="1597579707113" />
+    <state x="198" y="0" key="CommitChangelistDialog2/0.0.1218.720@0.0.1218.720" timestamp="1597580307528" />
     <state x="279" y="139" key="EditFileWatcherDialog" timestamp="1597140687023">
       <screen x="0" y="0" width="1218" height="720" />
     </state>

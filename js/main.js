@@ -28,8 +28,8 @@ const addContent       = (data) => {
                 <figure><img src="${data.Search[0].Poster}" alt=""></figure>
                 <p class="content__boxes-title">MOVIE TITLE ${data.Search[0].Title}</p>
                 <div class="content__bg">
-                <p class="content__subtitle subtitle">Type of movie:${data.Search[0].Type}</p>
-                <p class="content__subtitle span">Year: ${data.Search[0].Year}</p>
+                <p class="content__subtitle subtitle">Type of movie ${data.Search[0].Type}</p>
+                <p class="content__subtitle span">Year ${data.Search[0].Year}</p>
                 </div>
                 </div>
                 
@@ -37,8 +37,8 @@ const addContent       = (data) => {
                <figure><img src="${data.Search[1].Poster}" alt=""></figure>
                 <p class="content__boxes-title">MOVIE TITLE ${data.Search[1].Title}</p>
                 <div class="content__bg">
-                <p class="content__subtitle subtitle">Type of movie:${data.Search[1].Type}</p>
-                <p class="content__subtitle span">Year: ${data.Search[1].Year}</p>
+                <p class="content__subtitle subtitle">Type of movie ${data.Search[1].Type}</p>
+                <p class="content__subtitle span">Year ${data.Search[1].Year}</p>
                 </div>
                 </div>
                 
@@ -46,8 +46,8 @@ const addContent       = (data) => {
                 <figure><img src="${data.Search[2].Poster}" alt=""></figure>
                 <p class="content__boxes-title">MOVIE TITLE ${data.Search[2].Title}</p>
                 <div class="content__bg">
-                <p class="content__subtitle subtitle">Type of movie:${data.Search[2].Type}</p>
-                <p class="content__subtitle span">Year: ${data.Search[2].Year}</p>
+                <p class="content__subtitle subtitle">Type of movie ${data.Search[2].Type}</p>
+                <p class="content__subtitle span">Year ${data.Search[2].Year}</p>
                 </div>
                 </div>
                 
@@ -55,8 +55,8 @@ const addContent       = (data) => {
                 <figure><img src="${data.Search[3].Poster}" alt=""></figure>
                 <p class="content__boxes-title">MOVIE TITLE ${data.Search[3].Title}</p>
                 <div class="content__bg">
-                <p class="content__subtitle subtitle">Type of movie:${data.Search[3].Type}</p>
-                <p class="content__subtitle span">Year: ${data.Search[3].Year}</p>
+                <p class="content__subtitle subtitle">Type of movie ${data.Search[3].Type}</p>
+                <p class="content__subtitle span">Year ${data.Search[3].Year}</p>
                 </div>
                 </div>
                 
@@ -64,8 +64,8 @@ const addContent       = (data) => {
                 <figure><img src="${data.Search[4].Poster}" alt=""></figure>
                 <p class="content__boxes-title">MOVIE TITLE ${data.Search[4].Title}</p>
                 <div class="content__bg">
-                <p class="content__subtitle subtitle">Type of movie:${data.Search[4].Type}</p>
-                <p class="content__subtitle span">Year: ${data.Search[4].Year}</p>
+                <p class="content__subtitle subtitle">Type of movie ${data.Search[4].Type}</p>
+                <p class="content__subtitle span">Year ${data.Search[4].Year}</p>
                 </div>
                 </div>
                 
@@ -73,8 +73,8 @@ const addContent       = (data) => {
                 <figure><img src="${data.Search[5].Poster}" alt=""></figure>
                 <p class="content__boxes-title">MOVIE TITLE ${data.Search[5].Title}</p>
                 <div class="content__bg">
-                <p class="content__subtitle subtitle">Type of movie:${data.Search[5].Type}</p>
-                <p class="content__subtitle span">Year: ${data.Search[5].Year}</p>
+                <p class="content__subtitle subtitle">Type of movie ${data.Search[5].Type}</p>
+                <p class="content__subtitle span">Year ${data.Search[5].Year}</p>
                 </div>
                </div>
                
@@ -82,8 +82,8 @@ const addContent       = (data) => {
                 <figure><img src="${data.Search[5].Poster}" alt=""></figure>
                 <p class="content__boxes-title">MOVIE TITLE ${data.Search[5].Title}</p>
                 <div class="content__bg">
-                <p class="content__subtitle subtitle">Type of movie:${data.Search[5].Type}</p>
-                <p class="content__subtitle span">Year: ${data.Search[5].Year}</p>
+                <p class="content__subtitle subtitle">Type of movie ${data.Search[5].Type}</p>
+                <p class="content__subtitle span">Year ${data.Search[5].Year}</p>
                 </div>
                </div>
                
@@ -91,8 +91,8 @@ const addContent       = (data) => {
                 <figure><img src="${data.Search[6].Poster}" alt=""></figure>
                 <p class="content__boxes-title">MOVIE TITLE ${data.Search[6].Title}</p>
                 <div class="content__bg">
-                <p class="content__subtitle subtitle">Type of movie:${data.Search[6].Type}</p>
-                <p class="content__subtitle span">Year: ${data.Search[6].Year}</p>
+                <p class="content__subtitle subtitle">Type of movie ${data.Search[6].Type}</p>
+                <p class="content__subtitle span">Year ${data.Search[6].Year}</p>
                 </div>
                </div>
                
@@ -100,8 +100,8 @@ const addContent       = (data) => {
                 <figure><img src="${data.Search[7].Poster}" alt=""></figure>
                 <p class="content__boxes-title">MOVIE TITLE ${data.Search[7].Title}</p>
                 <div class="content__bg">
-                <p class="content__subtitle subtitle">Type of movie: ${data.Search[7].Type}</p>
-                <p class="content__subtitle span">Year: ${data.Search[7].Year}</p>
+                <p class="content__subtitle subtitle">Type of movie ${data.Search[7].Type}</p>
+                <p class="content__subtitle span">Year ${data.Search[7].Year}</p>
                 </div>
                </div>
                 </div>
