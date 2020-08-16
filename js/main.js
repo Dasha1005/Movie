@@ -98,7 +98,7 @@ const addContent       = (data) => {
  */
 const request = async (search, box) => {
 
-    fetch(`http://www.omdbapi.com/?=&apikey=8b47da7b&s=${search}`,{
+    fetch(`https://www.omdbapi.com/?=&apikey=8b47da7b&s=${search}`,{
         "method": "GET"
     })
         .then(response => response.json())
